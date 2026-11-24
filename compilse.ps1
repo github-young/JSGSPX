@@ -1,0 +1,1 @@
+for ($i=1; $i -le 5; $i++) { typst c ".\Ch$i.typ" }
